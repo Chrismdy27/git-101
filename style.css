@@ -4,13 +4,14 @@ font-family: Helvetica;
 font-weight: 100;
 }
 
+h1	{font-weight: 100;}
 
 #logo {
 	height: 180px;
 	width: 180px;
 	
 }
-
+/*duet*/
 #container {
 display: flex;
 align-items: center;
